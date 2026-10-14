@@ -21,7 +21,7 @@ auth.json
 # ------------------------------------------------------------------------------
 # Laravel Runtime & Storage
 # ------------------------------------------------------------------------------
-/public/build
+#/public/build
 /public/hot
 /public/storage
 /public/fonts-manifest.dev.json
